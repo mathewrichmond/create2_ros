@@ -1,0 +1,14 @@
+std_msgs/Header header
+bool home_base
+bool wheel_drop_left
+bool wheel_drop_right
+bool bump_left
+bool bump_right
+bool cliff_left
+bool cliff_front_left
+bool cliff_front_right
+bool cliff_right
+bool wall
+bool virtual_wall
+bool stasis_disables
+bool stasis_toggling

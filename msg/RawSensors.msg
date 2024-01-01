@@ -1,0 +1,15 @@
+std_msgs/Header header
+
+uint8 dirt_detect
+uint16 wall_signal
+uint16 cliff_left_signal
+uint16 cliff_front_left_signal
+uint16 cliff_front_right_signal
+uint16 cliff_right_signal
+uint8 light_bumper
+uint16 light_bumper_left
+uint16 light_bumper_front_left
+uint16 light_bumper_center_left
+uint16 light_bumper_center_right
+uint16 light_bumper_front_right
+uint16 light_bumper_right

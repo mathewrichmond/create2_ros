@@ -7,6 +7,3 @@ bool left_motor_overcurrent
 bool right_motor_overcurrent
 bool main_brush_overcurrent
 bool side_brush_overcurrent
-int16 battery_current
-int16 battery_voltage
-int8 battery_temperature
